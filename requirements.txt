@@ -1,0 +1,4 @@
+flask==0.1.1
+ansible==2.7.10
+django==2.2.2
+koji==1.15.0
